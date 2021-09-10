@@ -1,0 +1,13 @@
+*.pyc
+.idea
+.env
+.env.*
+!.env.example
+venv
+/.venv
+Pipfile
+Pipfile.lock
+.pytest_cache
+notebooks
+output/
+.ipynb_checkpoints/
